@@ -1,8 +1,8 @@
 {
-  "name": "vmess or vles",
-  "description": "vmess or vles",
+  "name": "0408",
+  "description": "0408",
   "keywords": [
-    "vmess or vles"
+    "0408"
   ],
   "env": {
     "PROTOCOL": {
@@ -16,8 +16,8 @@
       "required": false
     } 
   },
-  "website": "https://github.com/louyour/ngix-fixed",
-  "repository": "https://github.com/louyour/ngix-fixed",
+  "website": "https://github.com/ghjrose/0408",
+  "repository": "https://github.com/ghjrose/0408",
   "stack": "container",
   "features": [
     "runtime-dyno-metadata"
